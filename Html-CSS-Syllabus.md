@@ -32,27 +32,27 @@
 - URL Encoding
 
 ## HTML Table
-- <table>
-- <th>
-- <tr>
-- <td>
-- <caption>
-- <thead>
-- <tbody>
-- <tfoot>
-- <colgroup>
-- <col>
+- `<table>`
+- `<th>`
+- `<tr>`
+- `<td>`
+- `<caption>`
+- `<thead>`
+- `<tbody>`
+- `<tfoot>`
+- `<colgroup>`
+- `<col>`
 
 ## HTML Iframe
 - Attributes Using
 - Iframe as the Target
 
 ## HTML Form
-- <input>
-- <textarea>
-- <button>
-- <select>
-- <label>
+- `<input>`
+- `<textarea>`
+- `<button>`
+- `<select>`
+- `<label>`
 
 ## HTML Headers
 - Title
